@@ -60,7 +60,7 @@ export default {
   ],
   metaData: {
     authorName: "Ernesto Canquiz",
-    summary: "My personal blog",
+    summary: "Mi blog personal",
     category: "Blog",
     keywords: ["Blog", "Astro"],
     icon: "favicon.ico",
