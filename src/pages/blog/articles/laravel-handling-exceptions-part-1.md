@@ -1,14 +1,15 @@
 ---
 layout: "@layouts/ArticleLayout.astro"
-title: Laravel - Manejo de Excepciones Personalizadas (parte 1)
+title: Manejo de Excepciones
 date: 20 April 2023
+image: https://source.unsplash.com/800x600/daily
 tags:
   - php
   - laravel
   - backend
   - api
   - web-app
-description: Qué son las Exceptiones
+description: Manejo de Excepciones Personalizadas
 ---
 
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Cumque illo incidunt odit ex mollitia eligendi at eaque consequatur, sequi in repellat fuga qui itaque natus. Ducimus laboriosam, nihil nobis eum rerum facilis, quidem consequatur eligendi provident id in. Quae architecto rem repellendus nam, autem ullam facilis dolores veniam, impedit itaque similique deserunt dolorum eveniet nemo, dolore blanditiis assumenda laborum corporis ut! Fugiat earum molestias voluptatum! Quae recusandae qui inventore sapiente quod dolorum aspernatur ratione eveniet, similique modi dignissimos nihil ut.

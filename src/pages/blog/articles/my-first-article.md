@@ -2,6 +2,7 @@
 layout: "@layouts/ArticleLayout.astro"
 title: My First Article
 date: 10 July 2022
+image: https://source.unsplash.com/umchkHwkdyM
 tags:
   - first
 description: How a description would look like if added
