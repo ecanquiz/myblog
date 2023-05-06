@@ -17,13 +17,17 @@ const { metaData: { authorName }, social } = config;
 		<div class="flex flex-col flex-wrap flex-grow">
 			<h1
 				class="text-center bg-gradient-to-r from-sky-500 to-indigo-500 bg-clip-text text-transparent text-5xl mb-[0.7em]">
-				Hi there, I'm <span class="font-bold">{authorName}</span></h1>
-			<p class="text-center">
-				Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-				Quidem cum hic, odio dignissimos iure, est inventore rerum deleniti itaque amet dolorem suscipit nemo ex
-				tempora.
-				Tempora fugiat veniam impedit porro.</p>
-			<div class="flex flex-wrap justify-center gap-5 mt-4">
+				Hola, soy <span class="font-bold">{authorName}</span></h1>
+			<p class="text-center text-xl">
+				Full Stack Web Developer, DevOps y Agile Coach que actualmente reside en Caracas, Venezuela.				
+			</p>
+			<p class="text-center mt-1 text-lg">
+				Me apasiona todo lo relacionado con PHP, Laravel, Vue, JavaScript, Typescript, Node, Express, CSS, Tailwind, UX/UI, TDD, Docker, CI/CD, Kubernet, Git, and so on.
+			</p>
+			<p class="text-center mt-1">
+				Estaré por aquí compartiendo mis anécdotas relacionadas con el camino que recorro mientras transcurre este aprendizaje.
+			</p>
+			<div class="flex flex-wrap justify-center gap-5 mt-1">
 				{social.map(ele => <a class="w-8 h-8 flex scale-1 hover:scale-125 transition-[scale] justify-center" href={ele.link}
 					target="_blank" rel="noreferrer noopener">
 					<span class="sr-only">{`Link to my ${ele.sr?? capitalizeString(ele.link.replace(/.+\/\/|www.|\..+/g, ''))} account`}</span>
