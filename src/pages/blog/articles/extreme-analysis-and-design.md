@@ -4,14 +4,12 @@ title: Análisis y Diseño eXtremo
 date: 11 May 2023
 image: /myblog/images/extreme-analysis-and-design/extreme-analysis-and-design.png
 tags:
-- agile
 - kamban
-- lean
-- methodology
 - scrum
 - xp
+- featured
 
-description: Lo ideal en todo proyecto es que el Dueño del Producto tuviese una imagen clara y concisa de lo que quiere y de cómo lo quiere.
+description: Metodologías Ágiles
 ---
 
 >Lo ideal en todo proyecto es que el [Dueño del Producto](https://caribestic.github.io/scrum/roles/product-owner.html) tuviese una imagen clara y concisa de lo que quiere y de cómo lo quiere. Desgraciadamente lo mas habitual en todo proyecto es que el usuario sabe lo que quiere en un dominio de su negocio pero carece del conocimiento para expresar esas funcionalidades en un ambiente algo mas técnico o propicio para los desarrolladores.

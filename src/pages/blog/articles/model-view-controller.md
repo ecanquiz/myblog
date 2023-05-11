@@ -5,11 +5,10 @@ date: 08 May 2023
 image: /myblog/images/model-view-controller/mvc.png
 tags:
   - architecture
-  - design
-  - patterns
-  - web-app 
+  - design-patterns
+  - featured
 
-description: How a description would look like if added
+description: ¿Porqué utilizar MVC?
 ---
 
 ---
