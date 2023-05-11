@@ -4,11 +4,9 @@ title: Manejo de Excepciones
 date: 20 April 2023
 image: https://source.unsplash.com/800x600/daily
 tags:
-  - php
   - laravel
   - backend
   - api
-  - web-app
 description: Manejo de Excepciones Personalizadas
 ---
 

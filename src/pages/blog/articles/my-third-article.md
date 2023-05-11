@@ -4,8 +4,7 @@ title: My Third Article
 date: 17 July 2022
 image: /myblog/images/my-third-article/cardimage.jpg
 tags:
-  - third
-  - featured
+  - third  
 description: Qué son las XYZ
 ---
 
