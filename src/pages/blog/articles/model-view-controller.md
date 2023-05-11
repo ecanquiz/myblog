@@ -2,9 +2,13 @@
 layout: "@layouts/ArticleLayout.astro"
 title: Modelo Vista Controlador
 date: 08 May 2023
-image: https://source.unsplash.com/umchkHwkdyM
+image: /myblog/images/model-view-controller/mvc.png
 tags:
-  - first
+  - architecture
+  - design
+  - patterns
+  - web-app 
+
 description: How a description would look like if added
 ---
 
